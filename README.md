@@ -6,5 +6,5 @@ An Akan-Name-Generator is a tool that assigns traditional Akan names based on th
 -**Gender specific Names.**
 -**Interactive display.**
 -**Cultural information.**
-
+#
 
