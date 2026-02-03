@@ -55,6 +55,8 @@ This project is licensed under the MIT License.
 Trizah Njeri- +254 706 174945.
 Project Link- <>https://github.com/trizahn2002-source/Akan-Name-Generator.
 
+                    (Made with Love with yours truely,TRIZAH NJERI W.)
+
 
 
 
