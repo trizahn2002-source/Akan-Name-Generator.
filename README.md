@@ -34,7 +34,28 @@ akan-name-generator/
 The application uses the following algorith;
 1. **User Input**: Accepts birthdate and gender from the user.
 2. **Day Calculation**: Uses JavaScript's 'Date' object to determine the day of the week.
-3. **Name Mapping**:
+3. **Name Mapping**: Matches the day and the gender to the corresponding Akan Name.
+4. **Display**:Shows the result to the user.
+
+# Browser Support.
+-Chrome
+-Firefox
+-Safari
+-Mobile browser.
+
+# License.
+This project is licensed under the MIT License.
+
+# Acknowledgments.
+- Akan culture naming traditions.
+- The people of Ghana for preserving this beautiful tradition.
+- All contibutions to the project.
+
+# Contact.
+Trizah Njeri- +254 706 174945.
+Project Link-
+
+
 
 
 
