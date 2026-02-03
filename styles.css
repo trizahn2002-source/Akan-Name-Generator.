@@ -42,3 +42,8 @@ h1{
   padding: 20px;
   color: rgb(228, 7, 228);
  }
+ footer{
+  font-style: italic;
+  text-align: center;
+  color: blueviolet;
+ }
