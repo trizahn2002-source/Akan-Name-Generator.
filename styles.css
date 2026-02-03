@@ -1,7 +1,10 @@
-*{
+ .All-form{
   margin: 0%;
   padding: 0%;
   box-sizing: border-box;
+  border: solid black 2px;
+  background-color: rgb(229, 164, 175);
+  box-shadow: 0px 5px 5px 5px rgb(217, 163, 217);
 }
 body {
   padding: 20px;
@@ -10,7 +13,7 @@ body {
   padding: 20px;
   display: block;
   background: fixed;
-  background-image: url(https://i.pinimg.com/736x/62/ff/25/62ff25a0fd85a94389d79afc2b12d7da.jpg)
+  background-image: url(https://img.freepik.com/free-photo/vintage-background_23-2151901327.jpg?semt=ais_hybrid&w=740&q=80)
 }
 
 h2{
@@ -34,3 +37,8 @@ h1{
   text-align: center;
   color: blueviolet;
 }
+ .form{
+  text-align: center;
+  padding: 20px;
+  color: rgb(228, 7, 228);
+ }
