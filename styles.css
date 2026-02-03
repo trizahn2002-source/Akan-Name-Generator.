@@ -29,3 +29,8 @@ h1{
   box-shadow: inset;
   border: 10px;
 }
+#result{
+  font-weight: bold;
+  text-align: center;
+  color: blueviolet;
+}
